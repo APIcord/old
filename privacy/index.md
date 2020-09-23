@@ -2,7 +2,7 @@
 ## Data collection
 For out part we do not collect any data for you. But if you see the bot itself is doing that, please, contact me in a MD: LT#5266
 
-## 3rd partys
+## 3rd party data sharing
 We are not responsable if our hosters, API providers, or Discord collect data. But, we're puting the links of their policys right here:
 
 ### Hosters
@@ -24,3 +24,6 @@ No Privacy Policy
 ### Discord
 <li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
 <li><a href="https://discord.com/developers/docs/policy">Discord Developer Policy</a></li>
+
+### UptimeRobot
+<li><a href="https://uptimerobot.com/privacy">UptimeRobot Privacy Policy</a></li>
