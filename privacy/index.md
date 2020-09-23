@@ -11,15 +11,15 @@ We are not responsable if our hosters, API providers, or Discord collect data. B
 
 ### API providers
 <li><a href="#">Coffee API</a></li>
-_No Privacy Policy_
+No Privacy Policy
 <li><a href="#">Dog CEO</a></li>
-_No Privacy Policy found_
+No Privacy Policy found
 <li><a href="#">Meme API</a></li>
-_No Privacy Policy_
+No Privacy Policy
 <li><a href="#">Catfact.ninja</a></li>
-_No Privacy Policy Found_
-<li><a href="#">Some Random API</li>
-_No Privacy Policy_
+No Privacy Policy Found
+<li><a href="#">Some Random API</a></li>
+No Privacy Policy
 
 ### Discord
 <li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
