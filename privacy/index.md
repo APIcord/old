@@ -18,6 +18,8 @@ No Privacy Policy found
 No Privacy Policy
 <li><a href="#">Catfact.ninja</a></li>
 No Privacy Policy Found
+<li><a href="#">memegen.link</a></li>
+No Privacy Policy Found
 <li><a href="#">Some Random API</a></li>
 No Privacy Policy
 
