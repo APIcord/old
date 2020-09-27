@@ -20,6 +20,8 @@ No Privacy Policy
 No Privacy Policy Found
 <li><a href="#">memegen.link</a></li>
 No Privacy Policy Found
+<li><a href="https://funtranslations.com/privacy">Fun Translations</a></li>
+https://funtranslations.com/privacy
 <li><a href="#">Some Random API</a></li>
 No Privacy Policy
 
