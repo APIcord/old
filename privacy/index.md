@@ -10,20 +10,20 @@ We are not responsable if our hosters, API providers, or Discord collect data. B
 <li><a href="https://repl.it/site/privacy">Repl.it Privacy Policy</a></li>
 
 ### API providers
-<li><a href="#">Coffee API</a></li>
+<li>Coffee API</li>
 No Privacy Policy
-<li><a href="#">Dog CEO</a></li>
+<li>Dog CEO</li>
 No Privacy Policy found
-<li><a href="#">Meme API</a></li>
+<li>Meme API</li>
 No Privacy Policy
-<li><a href="#">Catfact.ninja</a></li>
+<li>Catfact.ninja</li>
 No Privacy Policy Found
-<li><a href="#">memegen.link</a></li>
+<li>memegen.link</li>
 No Privacy Policy Found
 <li><a href="https://funtranslations.com/privacy">Fun Translations Privacy Policy</a></li>
 <li>Some Random API</li>
 No Privacy Policy
-<li><a href="https://api.chucknorris.io/privacy">chucknorris.io</a></li>
+<li><a href="https://api.chucknorris.io/privacy">chucknorris.io's Application Privacy Statement</a></li>
 
 ### Discord
 <li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
