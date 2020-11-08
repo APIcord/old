@@ -21,8 +21,9 @@ No Privacy Policy Found
 <li><a href="#">memegen.link</a></li>
 No Privacy Policy Found
 <li><a href="https://funtranslations.com/privacy">Fun Translations Privacy Policy</a></li>
-<li><a href="#">Some Random API</a></li>
+<li>Some Random API</li>
 No Privacy Policy
+<li><a href="https://api.chucknorris.io/privacy">chucknorris.io</a></li>
 
 ### Discord
 <li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
