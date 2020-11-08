@@ -1,6 +1,6 @@
 # Privacy
 ## Data collection
-For out part we do not collect any data for you. But if you see the bot itself is doing that, please, contact me in a MD: LT#5266
+For out part we do not collect any data for you. But if you see the bot itself is doing that, please, contact me in a MD: error#7900
 
 ## 3rd party data sharing
 We are not responsable if our hosters, API providers, or Discord collect data. But, we're puting the links of their policys right here:
