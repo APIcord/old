@@ -16,3 +16,10 @@ body {
 .sub-stuff {
     padding: 1%;
 }
+footer {
+    text-align: center;
+}
+footer table {
+    width: 100%;
+    text-align: left;
+}
