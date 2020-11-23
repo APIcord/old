@@ -6,28 +6,32 @@ For out part we do not collect any data for you. But if you see the bot itself i
 We are not responsable if our hosters, API providers, or Discord collect data. But, we're puting the links of their policys right here:
 
 ### Hosters
-<li><a href="https://github.com/site/privacy">GitHub Privacy Policy</a></li>
-<li><a href="https://repl.it/site/privacy">Repl.it Privacy Policy</a></li>
+- GitHub
+[GitHub Privacy Policy](https://github.com/site/privacy)
+- GitLab
+[GitLab Privacy Policy](https://about.gitlab.com/privacy)
+- Repl.it
+[Repl.it Privacy Policy](https://repl.it/site/privacy)
 
 ### API providers
-<li>Coffee API</li>
+- Coffee API
 No Privacy Policy
-<li>Dog CEO</li>
+- Dog CEO
 No Privacy Policy found
-<li>Meme API</li>
+- Meme API
 No Privacy Policy
-<li>Catfact.ninja</li>
+- Catfact.ninja
 No Privacy Policy Found
-<li>memegen.link</li>
+- memegen.link
 No Privacy Policy Found
-<li><a href="https://funtranslations.com/privacy">Fun Translations Privacy Policy</a></li>
-<li>Some Random API</li>
+- Some Random API
 No Privacy Policy
-<li><a href="https://api.chucknorris.io/privacy">chucknorris.io's Application Privacy Statement</a></li>
+- chucknorris.io
+[Application Privacy Statement](https://api.chucknorris.io/privacy)
 
 ### Discord
-<li><a href="https://discord.com/privacy">Discord Privacy Policy</a></li>
-<li><a href="https://discord.com/developers/docs/policy">Discord Developer Policy</a></li>
+- [Discord Privacy Policy](https://discord.com/privacy)
+- [Discord Developer Policy](https://discord.com/developers/docs/policy)
 
 ### UptimeRobot
-<li><a href="https://uptimerobot.com/privacy">UptimeRobot Privacy Policy</a></li>
+- [UptimeRobot Privacy Policy](https://uptimerobot.com/privacy)
