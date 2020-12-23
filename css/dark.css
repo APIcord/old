@@ -46,11 +46,12 @@ table {
 	width: 100%;
 }
 
-/* Footer */
-footer {
-    text-align: center;
+/* <table> */
+table {
+	width: 100%;
 }
-footer table {
-    width: 100%;
-    text-align: left;
+
+/* Footer */
+footer p {
+	text-align: center;
 }
