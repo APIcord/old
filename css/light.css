@@ -46,7 +46,9 @@ a:active {
 table {
 	width: 100%;
 }
-
+td {
+	align-self: center;
+}
 /* Footer */
 footer p {
 	text-align: center;
