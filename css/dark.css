@@ -38,6 +38,11 @@ a:active {
 		height: auto;
 	}
 }
+@media only screen and (min-width: 500px) {
+	br.preapi {
+		display:none;
+	}
+}
 @media only screen and (min-width: 600px) {
 	body {
 		padding: 0px 10px;
